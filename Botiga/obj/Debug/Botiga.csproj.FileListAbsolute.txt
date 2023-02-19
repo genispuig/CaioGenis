@@ -1,0 +1,8 @@
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\bin\Debug\Botiga.exe.config
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\bin\Debug\Botiga.exe
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\bin\Debug\Botiga.pdb
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\obj\Debug\Botiga.csproj.AssemblyReference.cache
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\obj\Debug\Botiga.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\obj\Debug\Botiga.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\obj\Debug\Botiga.exe
+C:\Users\Caio\Desktop\Cole\BotigaCistella\Botiga\obj\Debug\Botiga.pdb
